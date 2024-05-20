@@ -1,0 +1,67 @@
+             Row ID        Order ID Order Date  Ship Date       Ship Mode  \
+count   2121.000000            2121       2121       2121            2121   
+unique          NaN            1764        889        960               4   
+top             NaN  CA-2016-157749   9/5/2016  12/6/2017  Standard Class   
+freq            NaN               4         10         10            1248   
+mean    5041.643564             NaN        NaN        NaN             NaN   
+std     2885.740258             NaN        NaN        NaN             NaN   
+min        1.000000             NaN        NaN        NaN             NaN   
+25%     2568.000000             NaN        NaN        NaN             NaN   
+50%     5145.000000             NaN        NaN        NaN             NaN   
+75%     7534.000000             NaN        NaN        NaN             NaN   
+max     9991.000000             NaN        NaN        NaN             NaN   
+
+       Customer ID Customer Name   Segment        Country           City  ...  \
+count         2121          2121      2121           2121           2121  ...   
+unique         707           707         3              1            371  ...   
+top       SV-20365   Seth Vernon  Consumer  United States  New York City  ...   
+freq            15            15      1113           2121            192  ...   
+mean           NaN           NaN       NaN            NaN            NaN  ...   
+std            NaN           NaN       NaN            NaN            NaN  ...   
+min            NaN           NaN       NaN            NaN            NaN  ...   
+25%            NaN           NaN       NaN            NaN            NaN  ...   
+50%            NaN           NaN       NaN            NaN            NaN  ...   
+75%            NaN           NaN       NaN            NaN            NaN  ...   
+max            NaN           NaN       NaN            NaN            NaN  ...   
+
+         Postal Code  Region       Product ID   Category Sub-Category  \
+count    2121.000000    2121             2121       2121         2121   
+unique           NaN       4              375          1            4   
+top              NaN    West  FUR-FU-10004270  Furniture  Furnishings   
+freq             NaN     707               16       2121          957   
+mean    55726.556341     NaN              NaN        NaN          NaN   
+std     32261.888225     NaN              NaN        NaN          NaN   
+min      1040.000000     NaN              NaN        NaN          NaN   
+25%     22801.000000     NaN              NaN        NaN          NaN   
+50%     60505.000000     NaN              NaN        NaN          NaN   
+75%     90032.000000     NaN              NaN        NaN          NaN   
+max     99301.000000     NaN              NaN        NaN          NaN   
+
+                      Product Name        Sales     Quantity     Discount  \
+count                         2121  2015.000000  2121.000000  2015.000000   
+unique                         380          NaN          NaN          NaN   
+top     KI Adjustable-Height Table          NaN          NaN          NaN   
+freq                            18          NaN          NaN          NaN   
+mean                           NaN   355.026021     3.785007     0.174362   
+std                            NaN   508.761579     2.251620     0.181115   
+min                            NaN     1.892000     1.000000     0.000000   
+25%                            NaN    47.400000     2.000000     0.000000   
+50%                            NaN   183.968000     3.000000     0.200000   
+75%                            NaN   445.935000     5.000000     0.300000   
+max                            NaN  4416.174000    14.000000     0.700000   
+
+             Profit  
+count   2121.000000  
+unique          NaN  
+top             NaN  
+freq            NaN  
+mean       8.699327  
+std      136.049246  
+min    -1862.312400  
+25%      -12.849000  
+50%        7.774800  
+75%       33.726600  
+max     1013.127000  
+
+[11 rows x 21 columns]
+
