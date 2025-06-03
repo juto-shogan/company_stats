@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="EDA Assignment 2", layout="wide")
+st.set_page_config(page_title="EDA tasks", layout="wide")
 st.title("📊 EDA Task App - Assignment 2")
 
 st.sidebar.header("Upload Dataset")
