@@ -1,9 +1,9 @@
 # company_stats
 
 This was created to test my knowledge on numpy, pandas, seaborn, matplotlib and so on.
-# EDA Task App - Assignment 2
 
-A comprehensive Exploratory Data Analysis (EDA) web application built with Streamlit for analyzing company sales data. This interactive dashboard provides various analytical insights and visualizations to understand sales patterns, customer behavior, and business performance.
+
+A comprehensive Exploratory Data Analysis (EDA) web application built with Streamlit for analysing company sales data. This interactive dashboard provides various analytical insights and visualisations to understand sales patterns, customer behaviour, and business performance.
 
 ## 📊 Features
 
@@ -11,10 +11,10 @@ The application offers 10 different analysis tasks:
 
 - **Trend Analysis**: Monthly sales and profit trends over time
 - **Geographic Analysis**: Sales and profits comparison by state
-- **Discount Analysis**: Scatter plot showing relationship between discount and profit
+- **Discount Analysis**: Scatter plot showing the relationship between discount and profit
 - **Shipping Analysis**: Distribution of different ship modes
 - **Customer Analysis**: Top 5 customers by sales, profit, and discount
-- **Geographic Mapping**: Sales and profit visualization by state (placeholder)
+- **Geographic Mapping**: Sales and profit visualisation by state (placeholder)
 - **Loyalty Analysis**: Customer order frequency analysis
 - **Product Analysis**: Top 10 selling products
 - **Category Analysis**: Predominant subcategories in terms of sales
