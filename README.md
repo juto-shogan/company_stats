@@ -21,12 +21,6 @@ The application offers 10 different analysis tasks:
 - **Correlation Analysis**: Correlation matrix between discount, sales, and profit
 
 ## Getting Started
-
-### Prerequisites
-
-- Python 3.7 or higher
-- pip package manager
-
 ### Installation
 
 1. **Clone the repository**
